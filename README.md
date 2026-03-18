@@ -93,15 +93,6 @@
 
 <img 
     align="left" 
-    alt="ExpressJS" 
-    title="ExpressJS"
-    width="25px" 
-    style="padding-right: 5px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="25px" 
