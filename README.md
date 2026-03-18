@@ -24,7 +24,7 @@
     alt="CSS" 
     title="CSS"
     width="25px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
@@ -33,7 +33,7 @@
     alt="Bootstrap"
     title="Bootstrap" 
     width="25px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
@@ -42,7 +42,7 @@
     alt="Tailwind" 
     title="Tailwind"
     width="25px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
@@ -51,7 +51,7 @@
     alt="React" 
     title="React"
     width="25px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
@@ -60,7 +60,7 @@
     alt="NextJS" 
     title="NextJS"
     width="25px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 
@@ -69,7 +69,7 @@
     alt="JavaScript" 
     title="JavaScript"
     width="25px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
@@ -78,7 +78,7 @@
     alt="TypeScript"
     title="TypeScript" 
     width="25px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 
@@ -87,7 +87,7 @@
     alt="NodeJS" 
     title="NodeJS"
     width="25px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 
@@ -96,7 +96,7 @@
     alt="ExpressJS" 
     title="ExpressJS"
     width="25px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
 />
 
@@ -105,7 +105,7 @@
     alt="Git" 
     title="Git"
     width="25px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
@@ -113,7 +113,7 @@
     alt="Python" 
     title="Python"
     width="25px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
@@ -121,7 +121,7 @@
     alt="Java" 
     title="Java"
     width="25px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
@@ -130,7 +130,7 @@
     alt="Spring Framework" 
     title="Spring Framework"
     width="25px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 
@@ -140,7 +140,7 @@
     alt="MySQL" 
     title="MySQL"
     width="25px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
@@ -149,7 +149,7 @@
     alt="PostgreSQL" 
     title="PostgreSQL"
     width="25px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
@@ -158,7 +158,7 @@
     alt="Firebird" 
     title="Firebird"
     width="25px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" 
 />
 
@@ -167,7 +167,7 @@
     alt="Postman" 
     title="Postman"
     width="25px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
 
@@ -176,7 +176,7 @@
     alt="Linux" 
     title="Linux"
     width="25px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
