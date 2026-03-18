@@ -166,7 +166,7 @@
     alt="PostgreSQL" 
     title="PostgreSQL"
     width="28px" 
-    style="padding-right: 10px; padding-top: 10px" 
+    style="padding-right: 10px; margin-top: 10px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
