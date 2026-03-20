@@ -2,7 +2,7 @@
 
 **`🚀 Desenvolvedor FullStack`**
 
-👋 Me chamo Josias Severino, tenho 20 anos e sou natural de Pernambuco. Concluí o curso de Análise e Desenvolvimento de Sistemas na UNINASSAU e estou em busca da minha primeira oportunidade como desenvolvedor Full Stack.
+👋 Me chamo Josias Severino, tenho 20 anos e sou natural de Pernambuco. Concluí o curso de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade como desenvolvedor Full Stack.
 
 💼 Minha jornada na tecnologia começou no suporte técnico a sistemas ERP, onde atuei diretamente com usuários, realizei consultas SQL em produção e adquiri uma visão privilegiada sobre como os sistemas funcionam na prática.
 
