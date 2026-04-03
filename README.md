@@ -174,6 +174,7 @@
 <br/>
 <br/>
 
+<!--
 ### 📊 Github Stats
 
 <div align="left">
@@ -188,3 +189,4 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=josi9s&theme=tokyonight&layout=compact&custom_title=Tecnologias%20Mais%20Usadas&langs_count=9" 
   />
 </div>
+-->
